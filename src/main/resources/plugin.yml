@@ -1,0 +1,8 @@
+name: Ag2025
+version: '1.0'
+main: cn.org.agatha.ag2025.Ag2025
+api-version: '1.21'
+commands:
+  qi:
+    description: 解救笼启！
+    usage: /qi
